@@ -1,5 +1,4 @@
 /*global browser */
-
 'use strict';
 
 describe('E2E: Routes', function() {
